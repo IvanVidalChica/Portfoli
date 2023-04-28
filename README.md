@@ -1,8 +1,8 @@
 ## Portfoli
 
-Aquest es el menu **portfoli** dels menus estudis de *Cicle Superior de Desenvolupament d Aplicacios Multiplataforma*.
+Aquest es el menu **portfoli** dels menus estudis del *Cicle Superior de Desenvolupament d'Aplicacios Multiplataforma*.
 
-Els meus estudis de DAM els vaig ger a l institut Nicolau Copernic:
+Els meus estudis de DAM els vaig fer a l'institut Nicolau Copernic:
 
 <img src="https://copernic.cat/images/logos/logo-header.png" width="200">
      
