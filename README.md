@@ -8,8 +8,8 @@ Els meus estudis de DAM els vaig fer a l'institut Nicolau Copernic:
      
 El moduls que he fet son:
 
-- [M01: Systemes Informatics](https://github.com/ivan/Portfoli/tree/main/M01)
-- [M02: Base De Datos](https://github.com/ivan/Portfoli/tree/main/M02)
-- [M03: Programacio](https://github.com/ivan/Portfoli/tree/main/M03)
-- [M04: Lenguage de marques](https://github.com/ivan/Portfoli/tree/main/M04)
-- [FOL: Formacion Oriontacio Laboral](https://github.com/ivan/Portfoli/tree/main/FOL) 
+- [M01: Sistemes informàtics](https://github.com/IvanVidalChica/Portfoli/tree/main/M01)
+- [M02: Bases de Dades](https://github.com/IvanVidalChica/Portfoli/tree/main/M02)
+- [M03: Programació](https://github.com/IvanVidalChica/Portfoli/tree/main/M03)
+- [M04: Llenguatges de marques](https://github.com/IvanVidalChica/Portfoli/tree/main/M04)
+- [FOL: Formació i orientació laboral](https://github.com/IvanVidalChica/Portfoli/tree/main/FOL) 
